@@ -53,7 +53,7 @@ Includes testable mock implementations for both providers:
 
 <table border="3" bordercolor="black" align="center">
     <tr>
-        <th colspan="2">iPhone 16 Pro</th> 
+        <th colspan="2">Firebase (Email - Password) && Google in iPhone 16 Pro</th> 
     </tr>
     <tr>
         <td><img alt="Image" width="250" src="https://private-user-images.githubusercontent.com/10947013/463809984-647c689b-45d9-4a4a-aa68-edcd159eefc8.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTE5OTcwMTAsIm5iZiI6MTc1MTk5NjcxMCwicGF0aCI6Ii8xMDk0NzAxMy80NjM4MDk5ODQtNjQ3YzY4OWItNDVkOS00YTRhLWFhNjgtZWRjZDE1OWVlZmM4LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MDglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzA4VDE3NDUxMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWE1Mjc3MDJmYTkwZWY4OWZiY2M4MTNjMmMxNDFhYzI3YjliNjdjNGU2M2RlZDc1YmZhYTdlYWJlZDhlZGQzM2EmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.0nm036TJcI7gh-vbdhl69CelxdD4O_v_Gf6kQmAdNvs"></td> 
@@ -62,11 +62,12 @@ Includes testable mock implementations for both providers:
     </tr>
     <tr>
         <td><img alt="Image" width="250" src="https://private-user-images.githubusercontent.com/10947013/463821107-bb38c275-be17-403f-930c-cbbbf6dd04e2.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTE5OTc3NjksIm5iZiI6MTc1MTk5NzQ2OSwicGF0aCI6Ii8xMDk0NzAxMy80NjM4MjExMDctYmIzOGMyNzUtYmUxNy00MDNmLTkzMGMtY2JiYmY2ZGQwNGUyLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MDglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzA4VDE3NTc0OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWVkYjc4YWNhODE1YmFmNTA1NThiODk0NTRjZmIwMDQxZjlhZWU3YzhhYTNlYjZkZDY1MzA3OTUwZDQ0YjEzMDkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.L6sqvKo08XofrmVXkwMeKMPNogwIl2MfV38sCjVyOec"></td>
-        <td><img src="Resources/three.png"  width="250" alt="Detail"></td>      
+        <td> <img alt="Image" width="250" src="https://private-user-images.githubusercontent.com/10947013/463821742-08cbecbc-562a-4ddf-9fe5-d4da057f626d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTE5OTc4ODEsIm5iZiI6MTc1MTk5NzU4MSwicGF0aCI6Ii8xMDk0NzAxMy80NjM4MjE3NDItMDhjYmVjYmMtNTYyYS00ZGRmLTlmZTUtZDRkYTA1N2Y2MjZkLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MDglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzA4VDE3NTk0MVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTgwNGQ1ODIxYTdjNzNiMjEwZTRhMjJlMmJjZGEwYjI3MjNlZGI4NWE3YTg0ZGU4MWUyMTVlYWRiY2VlM2MxNmQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.MVjaE7FHJ9Lu02DmI0mazwHaXVtRtZ0C_j_JcBq1YAM"></td>     
+        <td><img alt="Image" width="250" src="https://private-user-images.githubusercontent.com/10947013/463822066-14d0dcf5-738e-4ed6-b1fb-6acb8b0ad7bf.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTE5OTc5MzksIm5iZiI6MTc1MTk5NzYzOSwicGF0aCI6Ii8xMDk0NzAxMy80NjM4MjIwNjYtMTRkMGRjZjUtNzM4ZS00ZWQ2LWIxZmItNmFjYjhiMGFkN2JmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MDglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzA4VDE4MDAzOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTY3MDE4NjgyNjJjNmMwNmNmMTdmZjM3NGNlYzAyMGE3NTE4YzA1YmNjMGI2YWJjNDRmMDNiNzAzNTU1NzZjNTcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.B4be88Gzkqo2bJY3k9jaz9c-EoxTQ1WLx_sbR7ehc7M"></td>
     </tr>
     <tr>
-        <td><img src="Resources/four.png"  width="250" alt="Home"></td>
-        <td><img src="Resources/five.png"  width="250" alt="Search"></td>
+        <td><img alt="Image" width="250" src="https://private-user-images.githubusercontent.com/10947013/463822391-4af3fdfa-8b1f-49f1-9a3d-c6bb869098f5.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTE5OTc5OTgsIm5iZiI6MTc1MTk5NzY5OCwicGF0aCI6Ii8xMDk0NzAxMy80NjM4MjIzOTEtNGFmM2ZkZmEtOGIxZi00OWYxLTlhM2QtYzZiYjg2OTA5OGY1LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MDglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzA4VDE4MDEzOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWUyNDA1ODUyMzRhMmQ5ZjBkOTlmZTk0N2M3NDU5ZmY5OTYyNjU4MTU3MTU1OWJiODBlNTgwODkxZDFiNzEyOGImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.6bSzq68Jk-ZQtuy9MTnaTwJBYpd8xq7JTjUfJP2RAUo"></td>
+        <td> <img alt="Image" width="250" src="https://private-user-images.githubusercontent.com/10947013/463822872-7e8455f7-4237-4c9a-8fe4-ed25b786b7f3.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTE5OTgwNzYsIm5iZiI6MTc1MTk5Nzc3NiwicGF0aCI6Ii8xMDk0NzAxMy80NjM4MjI4NzItN2U4NDU1ZjctNDIzNy00YzlhLThmZTQtZWQyNWI3ODZiN2YzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MDglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzA4VDE4MDI1NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWM2MzU4MzRlY2Y2NzBiYzY5Njc5OTViMWI3NTc3NmIwNTk5ZDg1NDhiYTk5M2ZlODQwNjlmODc4NGNjOTZlOTUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.YVgSH1Fj1Cia1uFqbtm4R16WwLWL04a6L_xxBfd0HP4"></td>
     </tr>
       
 </table>
@@ -75,10 +76,9 @@ Includes testable mock implementations for both providers:
 👩‍💻 Author
 
 Made with ❤️ by Grace
-Senior iOS Developer
-
-    - Email: gracetoa29@gmail
-    - Linkedin: https://www.linkedin.com/in/grace-toa/
+iOS Developer
+-  gracetoa29@gmail
+-  https://www.linkedin.com/in/grace-toa/
 
 
 ---
