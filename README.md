@@ -69,7 +69,7 @@ let viewModel = AuthViewModel(
         <th colspan="2">UI display in Redmi Note 13</th> 
     </tr>
     <tr>
-        <td><img src="Resources/one.png"  width="250" alt="Create"></td> 
+        <td><img alt="Image" width="250" src="https://private-user-images.githubusercontent.com/10947013/463809984-647c689b-45d9-4a4a-aa68-edcd159eefc8.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTE5OTcwMTAsIm5iZiI6MTc1MTk5NjcxMCwicGF0aCI6Ii8xMDk0NzAxMy80NjM4MDk5ODQtNjQ3YzY4OWItNDVkOS00YTRhLWFhNjgtZWRjZDE1OWVlZmM4LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MDglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzA4VDE3NDUxMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWE1Mjc3MDJmYTkwZWY4OWZiY2M4MTNjMmMxNDFhYzI3YjliNjdjNGU2M2RlZDc1YmZhYTdlYWJlZDhlZGQzM2EmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.0nm036TJcI7gh-vbdhl69CelxdD4O_v_Gf6kQmAdNvs"></td> 
     </tr>
     <tr>
         <td><img src="Resources/two.png"  width="250" alt="Create"></td>
