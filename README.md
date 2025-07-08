@@ -53,14 +53,6 @@ Includes testable mock implementations for both providers:
 2. Configure `GIDSignIn.sharedInstance` in your AppDelegate or SwiftUI lifecycle
 3. Inject your providers into `AuthViewModel`:
 
-```swift
-let viewModel = AuthViewModel(
-    authProvider: CombinedAuthProvider(
-        firebaseProvider: FirebaseAuthProvider(),
-        googleProvider: GoogleAuthProvider(signInInstance: GIDSignIn.sharedInstance)
-    )
-)
-
 
 ## Estructura del proyecto 
 
