@@ -3,7 +3,9 @@
 # Authentication with Firebase and Google (iOS - SwiftUI)
 
 <img src="Resources/zero.png" align="center" width="250" alt="Project icon">
-https://github.com/GraceToa/Auth_Google_Firebase/issues/1#issue-3213286041
+![Login UI]([https://yourdomain.com/images/login_view.png](https://github.com/GraceToa/Auth_Google_Firebase/issues/1#issue-3213286041)
+
+
 
 </td></tr></table>
 
