@@ -60,6 +60,7 @@ Includes testable mock implementations for both providers:
     <tr>
         <td><img src="https://private-user-images.githubusercontent.com/10947013/463809984-647c689b-45d9-4a4a-aa68-edcd159eefc8.png" alt="Image" width="250"></td>
         <td><img alt="Image" width="250" src="https://private-user-images.githubusercontent.com/10947013/463818566-ef48278e-015f-4120-ae39-6a9b08f15f0b.png"></td>
+        <td><img src="https://user-images.githubusercontent.com/10947013/61404117-0eb9bf80-a8d7-11e9-89ff-7b07a5491101.png" width="50" ></td>
     </tr>
     <tr>
         <td><img alt="Image" width="250" src="https://private-user-images.githubusercontent.com/10947013/463821107-bb38c275-be17-403f-930c-cbbbf6dd04e2.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTE5OTc3NjksIm5iZiI6MTc1MTk5NzQ2OSwicGF0aCI6Ii8xMDk0NzAxMy80NjM4MjExMDctYmIzOGMyNzUtYmUxNy00MDNmLTkzMGMtY2JiYmY2ZGQwNGUyLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MDglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzA4VDE3NTc0OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWVkYjc4YWNhODE1YmFmNTA1NThiODk0NTRjZmIwMDQxZjlhZWU3YzhhYTNlYjZkZDY1MzA3OTUwZDQ0YjEzMDkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.L6sqvKo08XofrmVXkwMeKMPNogwIl2MfV38sCjVyOec"></td>
