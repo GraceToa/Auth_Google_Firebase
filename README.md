@@ -57,7 +57,7 @@ Includes testable mock implementations for both providers:
     </tr>
     <tr>
         <td><img src="https://private-user-images.githubusercontent.com/10947013/463809984-647c689b-45d9-4a4a-aa68-edcd159eefc8.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM5NjU0MDEsIm5iZiI6MTc1Mzk2NTEwMSwicGF0aCI6Ii8xMDk0NzAxMy80NjM4MDk5ODQtNjQ3YzY4OWItNDVkOS00YTRhLWFhNjgtZWRjZDE1OWVlZmM4LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MzElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzMxVDEyMzE0MVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWI4ZWViNDljMDgwMjU1MmQ5MTExODc4YjYxNGM1ODVhNTdiNTQ3NWM2MGViZjg5YjMzODc2NDkxZjQ4NDk3MzImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.eLoH4XsgpO9w6tHDst3PlY-aH0a_CsWQC1-fpfu65PA" alt="Image" width="250"></td>
-        <td><img alt="Image" width="250" src="https://user-images.githubusercontent.com/10947013/463818566-ef48278e-015f-4120-ae39-6a9b08f15f0b.png"></td>
+        <td><img alt="Image" width="250" src="[https://user-images.githubusercontent.com/10947013/463818566-ef48278e-015f-4120-ae39-6a9b08f15f0b.png](https://github.com/GraceToa/Auth_Google_Firebase/issues/2#issue-3213326764)"></td>
         <td><img src="https://user-images.githubusercontent.com/10947013/61404117-0eb9bf80-a8d7-11e9-89ff-7b07a5491101.png" width="50" ></td>
     </tr>
     <tr>
