@@ -56,7 +56,7 @@ Includes testable mock implementations for both providers:
         <th colspan="2">Firebase (Email - Password) && Google in iPhone 16 Pro</th> 
     </tr>
     <tr>
-        <td><img alt="Image" width="250" src="[https://private-user-images.githubusercontent.com/10947013/463809984-647c689b-45d9-4a4a-aa68-edcd159eefc8.png?](https://github.com/GraceToa/Auth_Google_Firebase/issues/1)></td>
+        <td><img alt="Image" width="250" src="https://private-user-images.githubusercontent.com/10947013/463809984-647c689b-45d9-4a4a-aa68-edcd159eefc8.png?></td>
         <td><img alt="Image" width="250" src="https://private-user-images.githubusercontent.com/10947013/463818566-ef48278e-015f-4120-ae39-6a9b08f15f0b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTE5OTc0NjQsIm5iZiI6MTc1MTk5NzE2NCwicGF0aCI6Ii8xMDk0NzAxMy80NjM4MTg1NjYtZWY0ODI3OGUtMDE1Zi00MTIwLWFlMzktNmE5YjA4ZjE1ZjBiLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MDglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzA4VDE3NTI0NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTJhYjA3MDE4NjAzZTU4MzEwODAyYzlmNDA0YzU1MDg3OThkZWFhNGY1MzJhYjYyZmUyMmQ5YmY0MTk4MzBlZTMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.QHUniDVUvo8nWuOCkmAoX7TH6B7J11AhxtD2aor_Xsw"></td>
     </tr>
     <tr>
