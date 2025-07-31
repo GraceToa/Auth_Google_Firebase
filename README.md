@@ -58,7 +58,7 @@ Includes testable mock implementations for both providers:
         <th colspan="2">Firebase (Email - Password) && Google in iPhone 16 Pro</th> 
     </tr>
     <tr>
-        <td><img src="[https://user-images.githubusercontent.com/10947013/463809984-647c689b-45d9-4a4a-aa68-edcd159eefc8.png](https://github.com/GraceToa/Auth_Google_Firebase/issues/1)" alt="Image" width="250"></td>
+        <td><img src="https://github.com/GraceToa/Auth_Google_Firebase/issues/1" alt="Image" width="250"></td>
         <td><img alt="Image" width="250" src="https://user-images.githubusercontent.com/10947013/463818566-ef48278e-015f-4120-ae39-6a9b08f15f0b.png"></td>
         <td><img src="https://user-images.githubusercontent.com/10947013/61404117-0eb9bf80-a8d7-11e9-89ff-7b07a5491101.png" width="50" ></td>
     </tr>
